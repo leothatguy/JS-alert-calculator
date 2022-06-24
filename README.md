@@ -1,1 +1,1 @@
-# JS-alert-calculator
+https://primocrypt.github.io/JS-alert-calculator/
